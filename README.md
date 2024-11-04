@@ -1,4 +1,4 @@
-# Excel_Capston_-Project
+# Excel Capstone Project
 
 ## Excel_project
 
